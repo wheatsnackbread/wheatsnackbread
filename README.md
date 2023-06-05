@@ -5,3 +5,5 @@ Select technical projects: <br/>
 - Ørsted: calculating optimal wind turbine placement for leading Norwegian energy firm <br/>
 - Syllahomie: upload your syllabi to get dates automatically added to Google Calendar
 - TextChecks: simple Azure NLP service Q&A bot for mental health resource lookup
+
+<br/><br/>
