@@ -1,4 +1,4 @@
-raymondwang.ca <br/><br/>
+<a href="raymondwang.ca">raymondwang.ca</a> <br/><br/>
 Computer Science and Business student at Western University <br/><br/>
 Select projects: <br/>
 - GUIforWhisper: simple user interface for running OpenAI's Whisper transcription model locally <br/>
