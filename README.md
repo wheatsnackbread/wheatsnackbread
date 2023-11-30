@@ -1,6 +1,6 @@
 <a href="https://raymondwang.ca">raymondwang.ca</a> <br/><br/>
 <h2>Raymond Wang</h2>
-Computer Science and Business at Western University <br/>
+<b></b>Computer Science and Business at Western University <br/></b>
 <i>Data Scientist at Environment and Climate Change Canada <br/>
 Incoming Solution Specialist at Microsoft <br/><br/></i>
 Select technical projects: <br/>
