@@ -4,7 +4,7 @@
 <i>Data Scientist at Environment and Climate Change Canada <br/>
 Incoming Solution Specialist at Microsoft<br/><br/></i>
 <ul>
-  <li><a href="linkedin.com/raymondcrwang">LinkedIn</a></li>
+  <li><a href="https://linkedin.com/raymondcrwang">LinkedIn</a></li>
   <li><a href="https://drive.google.com/file/d/1Hddb9aBO7CppZFT8s-cOndXYuaDe89P9/view?usp=sharing">CV</a></li>
 </ul>
 <br/><br/>
