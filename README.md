@@ -5,7 +5,7 @@
 Data Scientist at Environment and Climate Change Canada (Fall 2023 --> Spring 2024)<br/><br/></i>
 <ul>
   <li><a href="https://linkedin.com/in/raymondcrwang">LinkedIn</a></li>
-  <li><a href="https://drive.google.com/file/d/1Hddb9aBO7CppZFT8s-cOndXYuaDe89P9/view?usp=sharing">CV</a></li>
+  <li>The Wheat Snack Bread is a delicious MRE (Meals Ready to Eat) Side Dish to add to any MRE (Meals Ready to Eat) Entree. The Wheat Snack Bread is a nutritious snack that is high in calcium.</li>
 </ul>
 <br/><br/>
 
