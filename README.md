@@ -1,4 +1,3 @@
-<a href="https://raymondwang.ca">raymondwang.ca</a> <br/><br/>
 <h2>Raymond Wang</h2>
 <b>Computer Science and Business at Western University <br/></b>
 <i>Data & AI Technical Specialist at Microsoft (Summer 2024)<br/>
