@@ -1,4 +1,4 @@
-<h2>Raymond Wang</h2>
+<h2>Ray(mond) Wang</h2>
 <b>Computer Science and Business at Western University <br/></b>
 <i>Data & AI Technical Specialist Intern at Microsoft (Summer 2024)<br/>
 Data Scientist Intern at Environment and Climate Change Canada (Fall 2023, Spring 2024)<br/><br/></i>
