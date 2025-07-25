@@ -1,6 +1,6 @@
 <h2>Ray Wang</h2>
 <b>MS Computer Science at University of Colorado Boulder, Ivey HBA at Western University <br/></b>
-<i>Incoming Deployment Strategist at Palantir Technologies (Summer 2025)<br/>
+<i>Deployment Strategist at Palantir Technologies<br/>
 Data & AI Technical Specialist Intern at Microsoft (Summer 2024)<br/>
 Data Scientist Intern at Environment and Climate Change Canada (Fall 2023, Spring 2024)<br/><br/></i>
 <ul>
